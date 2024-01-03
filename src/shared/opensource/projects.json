@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "BoomerBot",
+      "createdAt": "Dec-20-2023",
+      "url": "https://github.com/Ahmadwali1/BoomerBot",
+      "description": "🔥 BoomerBot is a chat web app where users can interact and have a conversation with their trusty Boomer AI. Thats right! The responses to user questions are AI generated. Users can chat casually with BoomerBot or ask it serious questions for serious info! With a Chat-GPT mock up in mind, the idea behind BoomerBot was to create a fun and useful chatsite, where the AI has been trained to respond to you like a Baby Boomer would...for the the added laughter of course. Think Scrappy. Think Simple and User-Friendly.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
+          "name": "MongoDb",
+          "iconifyClass": "logos:mongodb"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos:nodejs"
+        },
+        {
+          "name": "3rd party API",
+          "iconifyClass": "gravity-ui:abbr-api"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Code Masters",
+      "createdAt": "Nov-2023",
+      "url": "https://github.com/Ahmadwali1/Code-Masters-/tree/main",
+      "description": "Our e-commerce site created to offer a handy resource as you dive into the world of web development.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos:html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Django",
+          "iconifyClass": "logos:django"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "devicon-plain:postgresql-wordmark"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Exercise Tracker",
+      "createdAt": "Oct-2023",
+      "url": "https://github.com/Ahmadwali1/exercise-tracker",
+      "description": "helps users set and achieve their fitness goals, whether it's weight loss, muscle gain, improved endurance, or general fitness.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "ExpressJS",
+          "iconifyClass": "skill-icons:expressjs-dark"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos:nodejs"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Memory Game",
+      "createdAt": "Sep-2023",
+      "url": "https://github.com/Ahmadwali1/Project1_Memory_Game",
+      "description": "The main goal of the game is to test your memory. The game features a grid of 16 cards. Your objective is to match pairs of cards with identical pictures before the time runs out.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
